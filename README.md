@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Triet</h1>
-<h3 align="center">I'm a 3rd year student from HCM University of Information Technology</h3>
+<h3 align="center">I'm a 3rd year student of from HCM University of Information Technology</h3>
+<img align="right" alt="coding" width="400"
+    src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
 
-<div style="display: block;">
-    - 🌱 I’m currently learning **Typescript, NextJS, ElectronJS**
-    <img align="right" alt="coding" width="400"
-        src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=nanome203" alt="nanome203" /></a> </p>
 
-</div>
+- 🌱 I’m currently learning **Typescript, NextJS, ElectronJS**
+- ⚡ Fun fact: I love reading books, especially detective fiction novels
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -80,7 +81,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&" alt="nanome203" /></p>
-
 <!--
 **Nanome203/Nanome203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
