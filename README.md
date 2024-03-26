@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Triet</h1>
-<h3 align="center">I'm a 3rd year student of from HCM University of Information Technology</h3>
+<h3 align="center">I'm a 3rd year student from HCM University of Information Technology</h3>
 <p align="center">
     <img alt="coding" width="400"
     src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
@@ -11,7 +11,7 @@
             src="https://github-profile-trophy.vercel.app/?username=nanome203" alt="nanome203" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, NextJS, ElectronJS**
-- ⚡ Fun fact: I love reading books, especially detective fiction novels
+- ⚡ Fun fact: I love reading books, especially detective fiction novels and light novels
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
