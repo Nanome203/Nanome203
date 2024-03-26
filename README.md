@@ -82,7 +82,7 @@
         src="https://github-readme-stats.vercel.app/api?username=nanome203&show_icons=true&locale=en" alt="nanome203" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&" alt="nanome203" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&" alt="nanome203" /></p>
 <!--
 **Nanome203/Nanome203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
