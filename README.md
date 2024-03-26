@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Triet</h1>
 <h3 align="center">I'm a 3rd year student of from HCM University of Information Technology</h3>
-<img align="right" alt="coding" width="400"
+<img align="center" alt="coding" width="400"　style="margin: 10px"
     src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
