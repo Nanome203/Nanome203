@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Triet</h1>
-<h3 align="center">I'm a 3rd year student from HCM University of Information Technology</h3>
+<h1 align="center">👋 Hello, I'm Triet</h1>
+<h3 align="center">I'm a 3rd year student from HCM University of Information Technology, Viet Nam</h3>
 <p align="center">
     <img alt="coding" width="400"
     src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
