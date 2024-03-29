@@ -79,14 +79,14 @@
             src="https://github-profile-trophy.vercel.app/?username=nanome203" alt="nanome203" /></a> </p>
             
 <p align="center"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanome203&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanome203&theme=radical&hide_border=false&show_icons=true&locale=en&layout=compact"
         alt="nanome203" /></p>
 
 <p align="center">&nbsp;<img
-        src="https://github-readme-stats.vercel.app/api?username=nanome203&show_icons=true&locale=en" alt="nanome203" />
+        src="https://github-readme-stats.vercel.app/api?username=nanome203&theme=radical&hide_border=false&show_icons=true&locale=en" alt="nanome203" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&" alt="nanome203" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&theme=radical&hide_border=false" alt="nanome203" /></p>
 <!--
 **Nanome203/Nanome203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
