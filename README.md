@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">I'm a 3rd year student from HCM University of Information Technology, Viet Nam</h3>
 <p align="center">
-    <img alt="coding" width="400"
+    <img alt="coding" width="555"
         src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
@@ -15,12 +15,21 @@
 - 🌱 I’m currently learning **Typescript, NextJS, ElectronJS**
 - ⚡ Fun fact: I love reading books, especially detective fiction novels and light novels
 
+<h3 align="left">My favorite quote:</h3>
+<p align="center">
+    <img alt="coding" width="555"
+        src="https://i.pinimg.com/originals/a7/3c/e5/a73ce5d0774a13601fc94a7ecd61b1e7.jpg" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.facebook.com/minhtriet.pham.927/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="minh triet pham" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
