@@ -2,7 +2,7 @@
     <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello;+I'm+Triet;Nice+to+meet+you+!;" />
 </h1>
-<h3 align="center">I'm a 3rd year student from HCM University of Information Technology, Viet Nam</h3>
+<h3 align="center">I'm a 4th year student from HCM University of Information Technology, Viet Nam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
 
