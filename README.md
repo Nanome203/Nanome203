@@ -3,10 +3,6 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello;+I'm+Triet;Nice+to+meet+you+!;" />
 </h1>
 <h3 align="center">I'm a 3rd year student from HCM University of Information Technology, Viet Nam</h3>
-<p align="center">
-    <img alt="coding" width="555"
-        src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" />
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
 
