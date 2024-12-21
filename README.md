@@ -75,7 +75,7 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a>
 </p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanome203&theme=react-dark&hide_border=true" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=nanome203&theme=radical&hide_border=false&show_icons=true"
             alt="nanome203" /></a> </p>
