@@ -81,14 +81,14 @@
             alt="nanome203" /></a> </p>
 
 <p align="center"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanome203&theme=radical&hide_border=false&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanome203&theme=radical"
         alt="nanome203" /></p>
 
 <p align="center">&nbsp;<img
-        src="https://github-readme-stats.vercel.app/api?username=nanome203&theme=radical&hide_border=false&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=nanome203&theme=radical"
         alt="nanome203" />
 </p>
 
 <p align="center"><img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&theme=radical&hide_border=false&show_icons=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&theme=radical"
         alt="nanome203" /></p>
