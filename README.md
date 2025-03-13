@@ -88,7 +88,3 @@
         src="https://github-readme-stats.vercel.app/api?username=nanome203&theme=radical"
         alt="nanome203" />
 </p>
-
-<p align="center"><img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=nanome203&theme=radical"
-        alt="nanome203" /></p>
