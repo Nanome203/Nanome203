@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
 
-- 🌱 I’m currently learning **NextJS, ElectronJS**
+- 🌱 I’m currently learning **Nuxt, SvelteKit**
 - ⚡ Fun fact: I love reading books, especially detective fiction novels and light novels
 
 <h3 align="left">My favorite quote:</h3>
