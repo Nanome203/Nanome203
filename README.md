@@ -1,12 +1,11 @@
 <h1 align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello;+I'm+Triet;Nice+to+meet+you+!;" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello;👋+こんにちは;👋+Xin+chào;+I'm+Triet;Nice+to+meet+you+!;" />
 </h1>
-<h3 align="center">I'm a 4th year student from HCM University of Information Technology, Viet Nam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanome203&label=Profile%20views&color=0e75b6&style=flat"
         alt="nanome203" /> </p>
 
-- 🌱 I’m currently learning **Nuxt, SvelteKit**
+- 🌱 I’m currently learning **ServiceNow**
 - ⚡ Fun fact: I love reading books, especially detective fiction novels and light novels
 
 <h3 align="left">My favorite quote:</h3>
@@ -76,15 +75,11 @@
             height="40" /> </a>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanome203&theme=react-dark&hide_border=true" />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=nanome203&theme=radical&hide_border=false&show_icons=true"
-            alt="nanome203" /></a> </p>
 
-<p align="center"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanome203&theme=radical"
-        alt="nanome203" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nanome203&theme=radical" />
+</p>
 
-<p align="center">&nbsp;<img
-        src="https://github-readme-stats.vercel.app/api?username=nanome203&theme=radical"
-        alt="nanome203" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nanome203&theme=radical&show_icons=true" />
 </p>
